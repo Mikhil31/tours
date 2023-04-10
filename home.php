@@ -32,8 +32,12 @@
 </section>
 
 <!-- header section end -->
-    
-<!-- footer srat -->
+<!-- services section starts -->
+<section class="services"></section>
+<!-- services section ends -->
+
+
+<!-- footer srat -->*
 <section class="footer">
     <div class="box-container">
         <div class="box">
@@ -73,6 +77,8 @@
 
 
     </div>
+
+    <div class="credit">text <span>cad project</span></div>
 </section>
 <!-- footer end -->
 
