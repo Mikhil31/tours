@@ -108,6 +108,18 @@
 </section>
 <!-- services section ends -->
 
+<!-- home about services section start -->
+<section class="home-about">
+    <div class="image">
+        <img src="images/about-img.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <h3>about us</h3>
+        
+    </div>
+</section>
+<!-- home about services section end -->
 
 <!-- footer srat -->*
 <section class="footer">
