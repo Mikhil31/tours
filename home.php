@@ -37,7 +37,8 @@
 <section class="home">
     <div class="swiper home-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no repeat">
+            <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+            <!-- <div class="swiper-slide slide" style="background:url(https://as2.ftcdn.net/v2/jpg/02/65/26/83/1000_F_265268314_LmykO3vrtzmh3TQbBdnxj9vUczqqJXCU.jpg) no repeat"> -->
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>travel around the world</h3>
@@ -45,7 +46,8 @@
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no repeat">
+            <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+            <!-- <div class="swiper-slide slide" style="background:url(https://as2.ftcdn.net/v2/jpg/02/65/26/83/1000_F_265268314_LmykO3vrtzmh3TQbBdnxj9vUczqqJXCU.jpg) no repeat"> -->
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>discover new places</h3>
@@ -53,7 +55,8 @@
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no repeat">
+            <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+            <!-- <div class="swiper-slide slide" style="background:url(https://as2.ftcdn.net/v2/jpg/02/65/26/83/1000_F_265268314_LmykO3vrtzmh3TQbBdnxj9vUczqqJXCU.jpg) no repeat"> -->
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>make your travel worthwhile</h3>
@@ -111,15 +114,37 @@
 <!-- home about services section start -->
 <section class="home-about">
     <div class="image">
-        <img src="images/about-img.jpg" alt="">
+        <img src="images/about-img.jpg" alt="" >
     </div>
 
     <div class="content">
         <h3>about us</h3>
-        
+        <p>Welcome to our travels website! We are a team of passionate travelers who have come together to help you plan your dream vacation. Our website is designed to provide you with a seamless and stress-free booking experience.
+
+We understand that travel planning can be overwhelming, so we aim to simplify the process by providing you with comprehensive information about destinations, accommodation options, and activities to do. Whether you're looking for a relaxing beach holiday, an adventure-packed trip, or a cultural immersion experience, we've got you covered.
+        </p>
+        <a href="about.php"class="btn">read more</a>
+
     </div>
 </section>
 <!-- home about services section end -->
+
+
+<!-- home packages section starts -->
+
+<section class="home-packages">
+    <h1 class="heading">our packages</h1>
+    <div class="box-container">
+        <div class="box">
+            <div class="image">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- home packages section ends -->
+
 
 <!-- footer srat -->*
 <section class="footer">
