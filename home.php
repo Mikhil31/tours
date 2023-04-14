@@ -7,8 +7,11 @@
     <title>home</title>
 
     <!-- swiper css -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+/>
 
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js">
+    </script>
     
     <!--font awesome cdn stuff-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -35,37 +38,16 @@
 
 <!-- home section starts -->
 <section class="home">
-    <div class="swiper home-slider">
-        <div class="swiper-wrapper">
-            <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no repeat">
-                <div class="content">
-                    <span>explore, discover, travel</span>
-                    <h3>travel around the world</h3>
-                    <a href="package.php" class="btn">discover more</a>
-                </div>
-            </div>
-
-            <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no repeat">
-                <div class="content">
-                    <span>explore, discover, travel</span>
-                    <h3>discover new places</h3>
-                    <a href="package.php" class="btn">discover more</a>
-                </div>
-            </div>
-
-            <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no repeat">
-                <div class="content">
-                    <span>explore, discover, travel</span>
-                    <h3>make your travel worthwhile</h3>
-                    <a href="package.php" class="btn">discover more</a>
-                </div>
-            </div>
-
-
-        </div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
-    </div>
+   <div class="slider">
+  <div class="slide1"></div>
+  <div class="slide1"></div>
+  <div class="slide1"></div>
+  <div class="slide1"></div>
+  <div class="slide1"></div>
+  <h2 class="home-h2">Explore,Discover,Travel</h2>
+  <p class="para">DISCOVER NEW PLACES</p>
+  <button class="button">Discover More</button>
+<div>
 </section>
 <!-- home section ends -->
 
@@ -75,7 +57,7 @@
     <h1 class="heading-title">our services</h1>
     <div class="box-container">
         <div class="box">
-            <img src="images/icon-1.png" alt="">
+            <img src="images/icon-1.png" alt="pic one.. ">
             <h3>adventure</h3>
         </div>
 
